@@ -98,6 +98,8 @@ body {
 }
 .d-1-3 {
   height: 50px;
+  display: flex;
+  gap: 3px;
 }
 .number {
   display: inline-block;
@@ -140,4 +142,19 @@ body {
   font-size: 14px;
   border-top: 2px solid #000;
   padding-left: 10px;
+}
+
+.warning {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.big--end {
+  font-size: 70px;
+  font-weight: bold;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

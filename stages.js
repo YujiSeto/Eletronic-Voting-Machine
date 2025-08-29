@@ -11,7 +11,7 @@ let stages = [
       },
       {
         number: "77222",
-        name: "Robert Smith",
+        name: "Roberta Smith",
         party: "DEFG",
         photos: [{ url: "77222.jpg", caption: "Councilman" }],
       },
